@@ -1,0 +1,2 @@
+INSERT INTO cliente(id, nome, email, fone) VALUES (null, "Joao da Silva", "joao@mail.com", "10 99999-0000");
+INSERT INTO cliente(id, nome, email, fone) VALUES (null, "Maria Silva", "maria@mail.com", "00 33333-1111");
